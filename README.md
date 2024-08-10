@@ -3,7 +3,6 @@
 Hi! I'm Haikal Aiman, also known as Spaceboy. I'm passionate about technology, cybersecurity, and exploring the digital universe.
 
 ## What You'll Find Here
-- **Blog:** Insights on technology, cybersecurity, and more.
 - **Projects:** A showcase of my work and collaborations.
 - **Contact:** Get in touch for collaborations or questions.
 
